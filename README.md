@@ -53,4 +53,4 @@ streamlit run app.py
 ---
 
 ## 🧑‍💻 Author
-Made with ❤️ by [SHAN SHAREEF]
+Made with ❤️😎 by [SHAN SHAREEF]
